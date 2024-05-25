@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 153fd782a15d7a64ca1686952ab58bbf, type: 3}
+  m_Name: Question 4
+  m_EditorClassIdentifier: 
+  question: "4.  \u5728\u5B66\u6821\u7EC4\u7EC7\u7684Carrer Event\u4E2D\uFF0C\u4F60\u89C9\u5F97\u81EA\u5728\u5E76\u4EAB\u53D7\u4E0E\u5927\u5BB6\u4EA4\u6D41\u3002"
+  answers:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5

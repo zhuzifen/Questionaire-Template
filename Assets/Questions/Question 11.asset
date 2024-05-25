@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 153fd782a15d7a64ca1686952ab58bbf, type: 3}
+  m_Name: Question 11
+  m_EditorClassIdentifier: 
+  question: "11.  Prof\u4ECA\u5929\u4E0A\u8BFE\u7ED9\u5927\u5BB6\u4ECB\u7ECD\u4E86\u4E00\u4E2A\u65B0\u6982\u5FF5\uFF0C\u4F60\u559C\u6B22\u601D\u8003\u6F5C\u5728\u7684\u6539\u8FDB\u70B9\u6216\u65B0\u7684\u5E94\u7528\u65B9\u5F0F\u3002"
+  answers:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5

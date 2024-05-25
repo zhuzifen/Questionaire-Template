@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 153fd782a15d7a64ca1686952ab58bbf, type: 3}
+  m_Name: Question 2
+  m_EditorClassIdentifier: 
+  question: "2.  \u6B63\u5728\u7531Prof\u5206\u7EC4\u7684Marketing\u8BFE\u7A0B\u5C0F\u7EC4\u4E2D\uFF0C\u51C6\u5907\u4E00\u4EFD\u5173\u4E8Ework
+    ethics\u7684presentation\u3002\u5C0F\u7EC4\u6210\u5458\u6709\u6765\u81EA\u5404\u4E2A\u4E0D\u540C\u7684\u6587\u5316\u80CC\u666F\uFF0C\u5728\u7EC4\u961F\u4E4B\u524D\u4E92\u76F8\u4E4B\u95F4\u5E76\u4E0D\u4E86\u89E3\u3002\u5728\u5C0F\u7EC4\u4E2D\uFF0C\u4F60\u4F1A\u4E3B\u52A8\u63D0\u51FA\u521B\u65B0\u7684\u60F3\u6CD5\uFF0C\u9886\u5BFC\u56E2\u961F\u7684\u8BA8\u8BBA\u3002"
+  answers:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5

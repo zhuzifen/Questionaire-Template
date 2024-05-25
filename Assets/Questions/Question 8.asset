@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 153fd782a15d7a64ca1686952ab58bbf, type: 3}
+  m_Name: Question 8
+  m_EditorClassIdentifier: 
+  question: "8.  \u7D27\u5F20\u523A\u6FC0\u7684Final\u5907\u8003\u73AF\u8282\uFF0C\u4F60\u4F1A\u4E25\u683C\u9075\u5FAA\u7F6E\u9876\u597D\u7684\u5B66\u4E60\u8BA1\u5212\u3002"
+  answers:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
